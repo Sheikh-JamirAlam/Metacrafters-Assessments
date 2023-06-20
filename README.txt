@@ -4,9 +4,14 @@ This Solidity program is to create a custom Token on the Ethereum blockchain.
 
 ## Description
 
-This program is to create a custom Token on the Ethereum blockchain with the help of Solidity. Crypto tokens are digital representations of interest in an asset or used to facilitate transactions on a blockchain.
+This program is to create a custom Token on the Ethereum blockchain with the help of Solidity. Crypto tokens are digital representations of interest in an asset or used to facilitate transactions on a blockchain. We can set a Token name, abbreviation and also mint amount. There are other projects also included in this repo.
 
 ## Getting Started
+
+### Installing
+
+* Clone this repository locally using `git clone`
+* Get the Solidity files.
 
 ### Executing program
 
